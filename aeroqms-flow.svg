@@ -1,0 +1,16 @@
+<svg width="900" height="430" viewBox="0 0 900 430" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AeroQMS connected quality lifecycle">
+  <rect width="900" height="430" rx="22" fill="#F7F9FC"/>
+  <rect x="24" y="24" width="852" height="382" rx="14" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <text x="58" y="70" font-family="Consolas,monospace" font-size="14" font-weight="700" letter-spacing="2" fill="#607087">AEROQMS / QUALITY LIFECYCLE</text>
+  <text x="58" y="116" font-family="Arial,sans-serif" font-size="29" font-weight="700" fill="#152235">One investigation. Connected evidence.</text>
+  <path d="M105 231H795" stroke="#9DCFE8" stroke-width="3"/>
+  <g font-family="Arial,sans-serif" text-anchor="middle">
+    <g transform="translate(130 231)"><circle r="48" fill="#DDF3FF" stroke="#0077B6" stroke-width="2"/><text y="-5" font-size="15" font-weight="700" fill="#152235">RISK</text><text y="17" font-size="12" fill="#607087">FMEA</text></g>
+    <g transform="translate(343 231)"><circle r="48" fill="#DDF3FF" stroke="#0077B6" stroke-width="2"/><text y="-5" font-size="15" font-weight="700" fill="#152235">EVIDENCE</text><text y="17" font-size="12" fill="#607087">INSPECTION</text></g>
+    <g transform="translate(557 231)"><circle r="48" fill="#DDF3FF" stroke="#0077B6" stroke-width="2"/><text y="-5" font-size="15" font-weight="700" fill="#152235">CASES</text><text y="17" font-size="12" fill="#607087">NCR / CAPA</text></g>
+    <g transform="translate(770 231)"><circle r="48" fill="#DDF3FF" stroke="#0077B6" stroke-width="2"/><text y="-5" font-size="15" font-weight="700" fill="#152235">VERIFY</text><text y="17" font-size="12" fill="#607087">SPC / CPK</text></g>
+  </g>
+  <g fill="#0077B6"><path d="M281 231l-12-7v14z"/><path d="M495 231l-12-7v14z"/><path d="M708 231l-12-7v14z"/></g>
+  <rect x="58" y="326" width="784" height="45" rx="7" fill="#152235"/>
+  <text x="450" y="354" text-anchor="middle" font-family="Consolas,monospace" font-size="14" letter-spacing="1.2" fill="#FFFFFF">FIND THE ISSUE  ·  DOCUMENT THE FIX  ·  CHECK THAT IT WORKED</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg width="900" height="430" viewBox="0 0 900 430" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Vision-guided inspection prototype diagram">
+  <rect width="900" height="430" rx="22" fill="#0E1723"/>
+  <path d="M0 86H900M0 172H900M0 258H900M0 344H900M180 0V430M360 0V430M540 0V430M720 0V430" stroke="#172638"/>
+  <text x="48" y="60" font-family="Consolas,monospace" font-size="14" font-weight="700" letter-spacing="2" fill="#87A1BC">VISION SYSTEM / PROTOTYPE</text>
+  <g transform="translate(70 120)">
+    <rect width="260" height="220" rx="12" fill="#142235" stroke="#38506A"/>
+    <rect x="34" y="32" width="192" height="156" rx="8" fill="#0B131E" stroke="#43B5E8" stroke-width="2"/>
+    <g fill="#B7C8D9"><circle cx="80" cy="75" r="19"/><circle cx="145" cy="75" r="19"/><circle cx="198" cy="129" r="19"/><circle cx="107" cy="143" r="19"/></g>
+    <rect x="123" y="53" width="44" height="44" fill="none" stroke="#FFB84D" stroke-width="3"/>
+    <path d="M145 48V102M118 75H172" stroke="#FFB84D"/>
+    <text x="34" y="208" font-family="Consolas,monospace" font-size="12" fill="#87A1BC">TRAY / MULTI-CAMERA VIEW</text>
+  </g>
+  <path d="M366 230H447" stroke="#43B5E8" stroke-width="3"/><path d="M447 230l-14-8v16z" fill="#43B5E8"/>
+  <g transform="translate(470 112)" font-family="Consolas,monospace">
+    <text font-size="13" letter-spacing="1.5" fill="#87A1BC">PIPELINE</text>
+    <g transform="translate(0 28)"><rect width="330" height="50" rx="7" fill="#142D3D" stroke="#43B5E8"/><text x="22" y="31" font-size="15" font-weight="700" fill="#EDF4FC">01  INSPECT</text></g>
+    <g transform="translate(0 90)"><rect width="330" height="50" rx="7" fill="#142D3D" stroke="#43B5E8"/><text x="22" y="31" font-size="15" font-weight="700" fill="#EDF4FC">02  LOCATE</text></g>
+    <g transform="translate(0 152)"><rect width="330" height="50" rx="7" fill="#142D3D" stroke="#43B5E8"/><text x="22" y="31" font-size="15" font-weight="700" fill="#EDF4FC">03  PASS COORDINATES</text></g>
+    <text y="242" font-size="13" fill="#87A1BC">OUTPUT  X: 412.6  Y: 188.4  θ: 14.2°</text>
+  </g>
+</svg>
