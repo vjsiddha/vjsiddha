@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Vardhman Jain — Manufacturing, Quality, Vision and Automation" />
+  <img src="./profile-header.svg" width="100%" alt="Vardhman Jain — Manufacturing, Quality, Vision and Automation" />
 </div>
 
 I'm a Management Engineering graduate from the University of Waterloo, currently working in manufacturing.
@@ -38,7 +38,7 @@ Most of what I build here starts with something I want to figure out, usually ar
     </td>
     <td width="56%">
       <a href="https://github.com/vjsiddha/AeroQMS-Quality-Detective">
-        <img src="./assets/aeroqms-flow.svg" alt="AeroQMS connected quality lifecycle">
+        <img src="./aeroqms-flow.svg" alt="AeroQMS connected quality lifecycle">
       </a>
     </td>
   </tr>
@@ -47,7 +47,7 @@ Most of what I build here starts with something I want to figure out, usually ar
 <table>
   <tr>
     <td width="56%">
-      <img src="./assets/vision-inspection.svg" alt="Vision-guided inspection prototype">
+      <img src="./vision-inspection.svg" alt="Vision-guided inspection prototype">
     </td>
     <td width="44%" valign="top">
       <sub>03 / CURRENTLY BUILDING</sub>
