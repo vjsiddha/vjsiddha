@@ -58,3 +58,55 @@ Most of what I build here starts with something I want to figure out, usually ar
     </td>
   </tr>
 </table>
++
+<br>
+
+## TOOLBOX
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,opencv,react,nodejs,mysql,git,vscode&amp;theme=light&amp;perline=9" alt="Python, PyTorch, scikit-learn, OpenCV, React, Node.js, MySQL, Git, and VS Code" />
+</p>
+
+<table align="center">
+  <tr>
+    <td width="33%" valign="top">
+      <sub>QUALITY</sub><br><br>
+      PFMEA · CAPA · 8D<br>
+      Root Cause Analysis<br>
+      SPC · Cp/Cpk<br>
+      V&amp;V · Control Plans
+    </td>
+    <td width="33%" valign="top">
+      <sub>MANUFACTURING</sub><br><br>
+      Process Engineering<br>
+      GD&amp;T · Inspection<br>
+      Reliability · OEE<br>
+      APQP · PPAP · SAP
+    </td>
+    <td width="34%" valign="top">
+      <sub>SOFTWARE &amp; DATA</sub><br><br>
+      Python · SQL<br>
+      PyTorch · OpenCV<br>
+      pandas · scikit-learn<br>
+      Streamlit · React
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## ELSEWHERE
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vardhman-jain-/">
+    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://vardhmanjain.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-152235?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:vjsiddha@uwaterloo.ca">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-0077B6?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+</p>
